@@ -1,6 +1,18 @@
 ### Hi there 👋
-<!--
-**Pederbuk/Pederbuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Student at the University of Life Sciences</h3>
+</p>
 
-Here are some ideas to get you started
--->
+Hi!
+
+I am currently in my third year of a master's degree in robotics.
+I use github mostly for fun and as a cloud service for my code in coursed. 
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ROS-Light.svg" alt="ros" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/minecraft/creator/documents/redstoneguide" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </p>
+
+<br />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pederbuk&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pederbuk&include_all_commits=true&count_private=true&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook&langs_count=8" /></a> |
+| ------------- | ------------- |
