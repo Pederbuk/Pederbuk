@@ -4,8 +4,8 @@
 
 Hi!
 
-I am currently in my third year of a master's degree in robotics.
-I use github mostly for fun and as a cloud service for my code in coursed. 
+I am currently in my fourth year at NMBU in applied robotics.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
