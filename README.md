@@ -1,5 +1,5 @@
 
-<h3 align="center">Student at the University of Life Sciences</h3>
+<h3 align="center">Student at the Norwegian University of Life Sciences</h3>
 </p>
 
 Hi!
