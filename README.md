@@ -4,7 +4,7 @@
 
 Hi!
 
-I am currently in my fourth year at NMBU in applied robotics.
+I am currently in my fifth year at NMBU in applied robotics.
 
 
 
